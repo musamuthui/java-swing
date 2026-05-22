@@ -1,4 +1,4 @@
-import javax.swing*;
+import javax.swing.*;
 
 public class MyWindow {
     public static void main(String[] args) {
